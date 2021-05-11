@@ -1,6 +1,6 @@
 #pragma once
 
-#include "error_code.h"
+#include "ara/core/error_code.h"
 #include <exception>
 
 namespace ara {

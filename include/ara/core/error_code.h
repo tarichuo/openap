@@ -1,6 +1,6 @@
 #pragma once
 
-#include "error_domain.h"
+#include "ara/core/error_domain.h"
 
 namespace ara {
 namespace core {
